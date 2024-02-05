@@ -28,7 +28,7 @@ google_analytics: "G-2XXF0SG31P"
 # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 # Build settings
-theme: jekyll-theme-satellite
+remote_theme: byanko55/jekyll-theme-satellite
 
 exclude:
   - _posts
